@@ -1,6 +1,7 @@
 # VR House
-The idea of ​​this project was to create a replica of a house that could send and receive information from a VR game in real time through Firebase requests. The replica of the house was modeled and inserted into a 3d map, the furniture was also modeled and scaled allowing visualization within the game. Inputs were placed so that the player could interact with the doors and lighting, sending requests to Firebase through the code in Unity
-## Assets 👋
+The idea of ​​this project was to create a replica of a house that could send and receive information from a VR game in real time. The replica of the house was modeled and inserted into a 3d map, the furniture was also modeled and scaled allowing visualization within the game. Inputs were placed so that the player could interact with the doors and lighting, sending requests to Firebase through the code in Unity. The hardware is assembled from an ESP32 connected to the firebase via Wifi, allowing control of the actuators and sending information from the sensors to the game.
+
+## Assets 
 https://drive.google.com/drive/folders/107jjEvgZXWfFx3SUlxBUCHMU62wGYeCW?usp=sharing
 
 ## Game
